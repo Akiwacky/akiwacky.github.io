@@ -12,7 +12,7 @@ theme-color: indigo # indigo|yellow|pink|green|stone|
 # homepage information
 author: Akin Ajayi
 author-bio: Accountant | Data Analyst | Data Scienist # change to false to hide
-author-image: 279.png # file must be in the /assets/img/ folder
+author-image: profile.png # file must be in the /assets/img/ folder
 
 # navigation menu
 show-nav-menu: true
@@ -20,12 +20,10 @@ show-nav-menu: true
 nav-menu:
   - text: About
     permalink: about
-  - text: Bitcoin
-    permalink: bitcoin
   - text: Blog
     permalink: blog
-  - text: Resume
-    permalink: resume
+  - text: Contact
+    permalink: contact
 
 # use false to turn off any social media links
 twitter: false
@@ -33,15 +31,15 @@ facebook: false
 instagram: false
 github: https://github.com/
 linkedin: https://linkedin.com/
-medium: false
+medium: https://medium.com/@wiajayi
 google-scholar: false
 email: false
 # footer information
-# footer-msg: "Powered by Tailpages"
-# footer-msg-link: https://github.com/harrywang/tailpages
+# footer-msg:
+# footer-msg-link:
 
 # google analytics
-# google-analytics: G-WCRC1TC2V5
+# google-analytics:
 
 # jekyll plugins - no need to change
 # plugins: [- jekyll-seo-tag]
