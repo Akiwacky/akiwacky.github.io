@@ -2,20 +2,14 @@
 <html lang="{{ site.lang | default: " en-US" }}">
 
 <head>
-
-  <!-- google analytics -->
-  <!-- {% if site.google-analytics %}
-    {% include google-analytics.html %}
-  {% endif %} -->
-
-
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="utf-8">
   <title>{{ site.title }}</title>
 
+
   <!-- TailwindCSS and Inter Font-->
-  <link rel="stylesheet" href="/assets/css/main.css">
-  <link rel="stylesheet" href="/assets/css/tailwind.css">
+  <link rel="stylesheet" href="{{site.baseurl}}/assets/css/main.css">
+  <link rel="stylesheet" href="{{site.baseurl}}/assets/css/tailwind.css">
   <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
 
   <!-- fontawesome -->
@@ -72,15 +66,15 @@
     }
 
   /* Function for show/hide table of content */
-  function toggleTOC() {
-    var toc = document.getElementById('toc');
-        if (toc.style.display == "block"){ // if toc hidden, display it 
-            toc.style.display = "none";
-        }
-        else{ // if toc displayed, hidden it
-            toc.style.display = "block";
-        }
-    }
+  // function toggleTOC() {
+  //   var toc = document.getElementById('toc');
+  //       if (toc.style.display == "block"){ // if toc hidden, display it 
+  //           toc.style.display = "none";
+  //       }
+  //       else{ // if toc displayed, hidden it
+  //           toc.style.display = "block";
+  //       }
+  //   }
 </script>
 
 </html>
