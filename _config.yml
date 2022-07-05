@@ -1,5 +1,5 @@
 # change the followings to match your Github username and repo name
-baseurl: "/akiwacky.github.io" # the name of your github repo
+baseurl: "" # the name of your github repo
 url: "https://akiwacky.github.io" # the url of your github pages
 
 # site information used in page title, meta data etc.
@@ -12,7 +12,7 @@ theme-color: indigo # indigo|yellow|pink|green|stone|
 # homepage information
 author: Akin Ajayi
 author-bio: Accountant | Data Analyst | Data Scienist # change to false to hide
-author-image: profile.png # file must be in the /assets/img/ folder
+author-image: profile.PNG # file must be in the /assets/img/ folder
 
 # navigation menu
 show-nav-menu: true
