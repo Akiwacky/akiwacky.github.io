@@ -20,20 +20,18 @@ show-nav-menu: true
 nav-menu:
   - text: About
     permalink: about
-  - text: Blog
-    permalink: blog
-  - text: Contact
-    permalink: contact
+  - text: Projects
+    permalink: projects
 
 # use false to turn off any social media links
 twitter: false
 facebook: false
 instagram: false
-github: https://github.com/
-linkedin: https://linkedin.com/
+github: https://github.com/akiwacky
+linkedin: http://linkedin.com/in/akin-ajayi-01a26a3b
 medium: https://medium.com/@wiajayi
 google-scholar: false
-email: false
+email: mailto:wiyi@gmail.com
 # footer information
 # footer-msg:
 # footer-msg-link:
