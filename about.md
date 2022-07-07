@@ -6,7 +6,11 @@ permalink: about
 
 <img class="mx-auto w-1/2" src="{{site.baseurl}}/assets/img/me.JPG">
 
-Satoshi Nakamoto is the name used by the presumed pseudonymous person or persons who developed bitcoin, authored the bitcoin white paper, and created and deployed bitcoin's original reference implementation. - Wikipedia
+Hi 👋, I’m Akin Ajayi! I am a Data Analyst with a passion for exploring data to reveal patterns, trends and associations. I have a background in Finance and I am currently studying part-time to obtain my Masters in Data Science & Financial technology.
+
+In addition to this, I enjoy coding, sports, travel, reading and writing data insights on things of interest (Check out some below). I have also provided a list of my recent work below.
+
+If my profile is of interest to you, I would love to talk!
 
 ## Skills
 
@@ -20,10 +24,14 @@ Satoshi Nakamoto is the name used by the presumed pseudonymous person or persons
 
 ## Recent Projects and Tutorials
 
-- [SMOTE Analysis with Classification Metrics Evaluation](https://github.com/Akiwacky/Over-Sampling-Metrics-Evaluation-)
-- [OverSampling Analysis for a Classification Model](https://github.com/Akiwacky/OverSampling-Analysis-for-Classification)
-- [Understanding Linear Regression](https://medium.com/@wiajayi/understanding-linear-regression-3a977addcc1b)
+- [SMOTE Analysis with Classification Metrics Evaluation:](https://github.com/Akiwacky/Over-Sampling-Metrics-Evaluation-)
+  Analysis of over-sampling methods when evaluating Logistic Regression with the following metrics
+- [OverSampling Analysis for a Classification Model:](https://github.com/Akiwacky/OverSampling-Analysis-for-Classification)
+  Classification study to explore Naive random over-sampling, SMOTE, and ADASYN sampling methods when the data received is imbalanced
+- [Understanding Linear Regression:](https://medium.com/@wiajayi/understanding-linear-regression-3a977addcc1b)
+  Explanation of Linear Regression and how it can be used within Python
 
-## Concise Insights
+## Data Insights
 
-- [Airlines try to keep up with travel demand](https://medium.com/@wiajayi/airlines-try-to-keep-up-with-travel-demand-3c26f8793489)
+- [Airlines try to keep up with travel demand:](https://medium.com/@wiajayi/airlines-try-to-keep-up-with-travel-demand-3c26f8793489)
+  Analysis into why airlines are unable to keep up with demand

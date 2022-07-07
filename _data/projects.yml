@@ -1,14 +1,47 @@
-- title: Concise Insights - Airlines try to keep up with travel demand
+- title: Article - Airlines try to keep up with travel demand
   type: Visualization, Analysis
   date: July 4th 2022
   url: https://medium.com/@wiajayi
+  bio: Insight into why airlines are unable to keep up with demand
 
 - title: SMOTE Analysis with Classification Metrics Evaluation
-  type: Machine Learning
+  type: Python, Machine Learning
   date: July 2nd 2022
   url: https://akiwacky.github.io/Over-Sampling-Metrics-Evaluation-/
+  bio: Analysis of over-sampling methods when evaluating Logistic Regression with the following metrics
 
-- title: iOS App
-  event: Python
-  date: Fall 2021  - Batch 4.5
-  url: https://medium.com/@wiajayi
+- title: OverSampling Analysis for Classification
+  type: Python, Machine Learning
+  date: July 1st 2022
+  url: https://github.com/Akiwacky/OverSampling-Analysis-for-Classification
+  bio: Classification study to explore Naive random over-sampling, SMOTE, and ADASYN sampling methods when the data received is imbalanced
+
+- title: Tutorial - Understanding Linear Regression
+  type: Python, Machine Learning
+  date: June 14th 2022
+  url: https://medium.com/@wiajayi/understanding-linear-regression-3a977addcc1b
+  bio: Explanation of Linear Regression and how it can be used within Python
+
+- title: Linear Regression on Insurance Dataset
+  type: Python, Machine Learning
+  date: June 10th 2022
+  url: https://github.com/Akiwacky/Linear-Regression-Insurance
+  bio: Linear Regression model to predict insurance costs based on several features
+
+- title: Exploratory Data Analysis on Snapchat reviews
+  type: Python, NLP, Analysis, Visualization
+  date: November 1st 2021
+  url: https://medium.com/@wiajayi/snapchat-reviews-exploratory-data-analysis-1deaf294511b
+  bio: Statistical analysis using the PPDAC cycle to answer the question - Why ratings from Snapchat consumers have fluctuated over the last three years
+
+- title: Value Investing Defensive Strategy
+  type: Python, Analysis
+  date: April 4th 2021
+  url: https://github.com/Akiwacky/Value_Investing-Defensive_Strategy
+  bio: Automation of the 'Defensive Strategy' based on Chapter 14 of the Intelligent Investor using Python
+
+- title: COVID Analysis
+  type: Python, Analysis, Web Development
+  date: April 4th 2021
+  url: https://medium.com/@wiajayi/how-i-deployed-a-web-application-to-the-cloud-using-python-flask-and-bootstrap-d432ab6457dc
+  bio: Deployment of a web application to the cloud using Python, Flask, and Bootstrap
