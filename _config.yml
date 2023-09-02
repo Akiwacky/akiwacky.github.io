@@ -11,7 +11,7 @@ theme-color: indigo # indigo|yellow|pink|green|stone|
 
 # homepage information
 author: Akin Ajayi
-author-bio: Accountant | Data Analyst | Data Scienist # change to false to hide
+author-bio: Accountant | Data Analyst | Data Engineer # change to false to hide
 author-image: profile.PNG # file must be in the /assets/img/ folder
 
 # navigation menu
