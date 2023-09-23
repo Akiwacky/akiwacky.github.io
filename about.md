@@ -33,5 +33,5 @@ If my profile is of interest to you, I would love to talk!
 
 ## Data Insights
 
-- [Airlines try to keep up with travel demand:](https://medium.com/@wiajayi/airlines-try-to-keep-up-with-travel-demand-3c26f8793489)
-  Analysis into why airlines are unable to keep up with demand
+- [NBA Four Factors Analysis](https://akinajayi.me/NBA_Four_Factors/)
+  Utilize data analysis techniques to extract valuable insights related to the Four Factors, which serve as the foundational elements of successful basketball.
