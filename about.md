@@ -12,7 +12,7 @@ Having extensively worked with diverse datasets, I have developed a strong found
 
 In my leisure time, I enjoy engaging in coding challenges to sharpen my technical skills and staying up to data with the latest trends, and I have a fondness for sports, travel and reading, which provide me with a balanced and active lifestyle.
 
-Highlighted below are some of my recent projects and contributions in the realm of data engineering:
+Highlighted below are some of my recent projects:
 
 ### Recent Projects and Tutorials
 
