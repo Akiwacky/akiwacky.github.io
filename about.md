@@ -15,17 +15,18 @@ If my profile is of interest to you, I would love to talk!
 ## Skills
 
 - Python
-- R
 - SQL
 - Power BI
+- Databases
+- R
 - Visualisation
 - Web Development
 - Good understanding of Financial practices and processes
 
 ## Recent Projects and Tutorials
 
-- [SMOTE Analysis with Classification Metrics Evaluation:](https://github.com/Akiwacky/Over-Sampling-Metrics-Evaluation-)
-  Analysis of over-sampling methods when evaluating Logistic Regression with the following metrics
+- [End to End Workflow Creating Database and Connecting to Power BI:](https://github.com/Akiwacky/DB-to-BI-Workflow)
+  End to End Workflow Creating Database and Connecting to Power BI in the Microsoft Ecosystem
 - [OverSampling Analysis for a Classification Model:](https://github.com/Akiwacky/OverSampling-Analysis-for-Classification)
   Classification study to explore Naive random over-sampling, SMOTE, and ADASYN sampling methods when the data received is imbalanced
 - [Understanding Linear Regression:](https://medium.com/@wiajayi/understanding-linear-regression-3a977addcc1b)
