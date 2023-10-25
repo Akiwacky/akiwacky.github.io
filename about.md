@@ -6,7 +6,7 @@ permalink: about
 
 <img class="mx-auto w-1/2" src="{{site.baseurl}}/assets/img/me.JPG">
 
-Hi 👋, I’m Akin Ajayi! I am a Data Analyst with a passion for exploring data to reveal patterns, trends and associations. I have a background in Finance and I am currently studying part-time to obtain my Masters in Data Science & Financial technology.
+Hi 👋, I’m Akin Ajayi! I am a Financial Data Analyst with a passion for exploring data to reveal patterns, trends and associations. I have a background in Finance and I am currently studying part-time to obtain my Masters in Data Science & Financial technology.
 
 In addition to this, I enjoy coding, sports, travel, reading and writing data insights on things of interest (Check out some below). I have also provided a list of my recent work below.
 
