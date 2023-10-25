@@ -14,7 +14,7 @@ In my leisure time, I enjoy engaging in coding challenges to sharpen my technica
 
 Highlighted below are some of my recent projects and contributions in the realm of data engineering:
 
-## Recent Projects and Tutorials
+### Recent Projects and Tutorials
 
 - [End to End Workflow Creating Database and Connecting to Power BI:](https://akinajayi.me/DB-to-BI-Workflow))
   End to End Workflow Creating Database and Connecting to Power BI in the Microsoft Ecosystem
@@ -23,7 +23,7 @@ Highlighted below are some of my recent projects and contributions in the realm 
 - [Understanding Linear Regression:](https://medium.com/@wiajayi/understanding-linear-regression-3a977addcc1b)
   Explanation of Linear Regression and how it can be used within Python
 
-## Data Insights
+### Data Insights
 
 - [NBA Four Factors Analysis](https://akinajayi.me/NBA_Four_Factors/)
   Utilize data analysis techniques to extract valuable insights related to the Four Factors, which serve as the foundational elements of successful basketball.
