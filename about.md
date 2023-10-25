@@ -28,7 +28,7 @@ Highlighted below are some of my recent projects:
 - [NBA Four Factors Analysis](https://akinajayi.me/NBA_Four_Factors/)
   Utilize data analysis techniques to extract valuable insights related to the Four Factors, which serve as the foundational elements of successful basketball.
 
-I am eager to bring my analytical skills, financial acumen, and data engineering capabilities to a challenging and innovative environment. If my profile aligns with your needs, I would be thrilled to discuss how I can contribute to your team.
+I am eager to bring my analytical skills, financial acumen, and data engineering capabilities to a challenging and innovative environment. If my profile aligns with your needs, I would be happy to discuss how I can contribute to your team.
 
 ## Skills
 
