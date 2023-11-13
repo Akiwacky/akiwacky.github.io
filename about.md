@@ -16,7 +16,7 @@ Highlighted below are some of my recent projects:
 
 ### Recent Projects and Tutorials
 
-- [OverSampling Analysis for a Classification Model:](https://medium.com/@wiajayi/understanding-apache-spark-and-pyspark-4ee4ca377434)
+- [Understanding Apache Spark and PySpark:](https://medium.com/@wiajayi/understanding-apache-spark-and-pyspark-4ee4ca377434)
   Understanding Apache Spark and PySpark with an Football anaylsis
 - [End to End Workflow Creating Database and Connecting to Power BI:](https://akinajayi.me/DB-to-BI-Workflow)
   End to End Workflow Creating Database and Connecting to Power BI in the Microsoft Ecosystem
