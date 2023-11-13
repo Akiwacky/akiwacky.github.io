@@ -16,10 +16,10 @@ Highlighted below are some of my recent projects:
 
 ### Recent Projects and Tutorials
 
+- [OverSampling Analysis for a Classification Model:](https://medium.com/@wiajayi/understanding-apache-spark-and-pyspark-4ee4ca377434)
+  Understanding Apache Spark and PySpark with an Football anaylsis
 - [End to End Workflow Creating Database and Connecting to Power BI:](https://akinajayi.me/DB-to-BI-Workflow))
   End to End Workflow Creating Database and Connecting to Power BI in the Microsoft Ecosystem
-- [OverSampling Analysis for a Classification Model:](https://github.com/Akiwacky/OverSampling-Analysis-for-Classification)
-  Classification study to explore Naive random over-sampling, SMOTE, and ADASYN sampling methods when the data received is imbalanced
 - [Understanding Linear Regression:](https://medium.com/@wiajayi/understanding-linear-regression-3a977addcc1b)
   Explanation of Linear Regression and how it can be used within Python
 
@@ -34,6 +34,8 @@ I am eager to bring my analytical skills, financial acumen, and data engineering
 
 - Python
 - SQL
+- Databricks
+- Apache Spark
 - Power BI
 - Databases
 - R
