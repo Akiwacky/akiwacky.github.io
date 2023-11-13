@@ -16,16 +16,16 @@ Highlighted below are some of my recent projects:
 
 ### Recent Projects and Tutorials
 
-- [Understanding Apache Spark and PySpark:](https://medium.com/@wiajayi/understanding-apache-spark-and-pyspark-4ee4ca377434)
-  bio: Understanding Apache Spark and PySpark with an Football anaylsis
-- [End to End Workflow Creating Database and Connecting to Power BI:](https://akinajayi.me/DB-to-BI-Workflow)
+- [Understanding Apache Spark and PySpark:](https://medium.com/@wiajayi/understanding-apache-spark-and-pyspark-4ee4ca377434)  
+  Understanding Apache Spark and PySpark with an Football anaylsis
+- [End to End Workflow Creating Database and Connecting to Power BI:](https://akinajayi.me/DB-to-BI-Workflow)  
   End to End Workflow Creating Database and Connecting to Power BI in the Microsoft Ecosystem
-- [Understanding Linear Regression:](https://medium.com/@wiajayi/understanding-linear-regression-3a977addcc1b)
+- [Understanding Linear Regression:](https://medium.com/@wiajayi/understanding-linear-regression-3a977addcc1b)  
   Explanation of Linear Regression and how it can be used within Python
 
 ### Data Insights
 
-- [NBA Four Factors Analysis](https://akinajayi.me/NBA_Four_Factors/)
+- [NBA Four Factors Analysis](https://akinajayi.me/NBA_Four_Factors/)  
   Utilize data analysis techniques to extract valuable insights related to the Four Factors, which serve as the foundational elements of successful basketball.
 
 I am eager to bring my analytical skills, financial acumen, and data engineering capabilities to a challenging and innovative environment. If my profile aligns with your needs, I would be happy to discuss how I can contribute to your team.
